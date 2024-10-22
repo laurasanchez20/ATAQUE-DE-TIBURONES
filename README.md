@@ -1,6 +1,7 @@
 # ATAQUE-DE-TIBURONES
 Shark Attack Analysis: Insurance Packages Based on Data Insights
-<!-- Replace with a relevant image URL -->
+
+Group: Benjamín Mancera, Irene Gauna, Clara Gallego, Miqueas Molina & Laura Sánchez
 
 🦈 Project Overview
 Welcome to the Shark Attack Analysis project! In this collaborative effort, our team has cleaned and analyzed a comprehensive database on shark attacks. Our objective? To simulate how an insurance company might assess risk and create various pricing packages based on statistical insights and hypotheses derived from the data.
